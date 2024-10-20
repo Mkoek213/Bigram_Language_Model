@@ -1,6 +1,6 @@
 # Bigram Language Model for Name Generation
 
-This project is based on [Andrej Karpathy's Bigram Language Model tutorial](https://www.youtube.com/watch?v=TCH_1BHY58I), modified to generate new names from a dataset of English and Polish names. The model is trained using bigrams (pairs of characters), enabling it to produce realistic names from the combined dataset.
+This project is based on [Andrej Karpathy's Bigram Language Model tutorial](https://www.youtube.com/watch?v=PaCmpygFfXo&t=3001s), modified to generate new names from a dataset of English and Polish names. The model is trained using bigrams (pairs of characters), enabling it to produce realistic names from the combined dataset.
 
 ## Project Overview
 
